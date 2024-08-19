@@ -19,6 +19,7 @@ Mean Acidification Potential
 It is a lot of data. In fact, it feels like data chaos.  The researchers would like to know if visualization can be used to gain insight into their data.
 
 ## File structure
-├── Results_21MAR2022_nokcaladjust.csv *** The dataset ***   
+├── Results_21MAR2022_nokcaladjust.csv *** The Dataset ***   
 ├── different_diet_group_environmental_impact.py *** Data Preprocessing Process ***     
-├── radar chart.py *** Data visualisation ***
+├── radar chart.py *** Data Visualisation ***  
+├── coursework2.pdf *** Report ***
