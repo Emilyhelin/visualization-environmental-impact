@@ -1,3 +1,4 @@
+## Background
 Professor C was approached by a team of researchers from the University of Oxford studying the impact that diet and food consumption has on the environment.  They have published a fascinating research paper on their research (Scarborough et al,2023), however, there is a major limitation with their work.  There is a startling absence of any graphics or visual representations of their research data and findings.  They need your help with this challenge. They have been collecting a massive amount of diet and food consumption data from over 55,000 consumers linked together with food production from 38,000 farms across 119 countries.. 
 
 Each row in the data set from the project contains the following information:
